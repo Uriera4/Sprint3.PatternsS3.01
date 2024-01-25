@@ -19,9 +19,7 @@ public class Undo {
         llistaComandes.add(comanda);
     }
     public void impreixComandes (){
-        for (String comanda : llistaComandes){
-            System.out.println(comanda);
-        }
+        llistaComandes.forEach(System.out::println);
         System.out.println();
     }
     public void eliminaComanda (){
