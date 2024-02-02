@@ -1,7 +1,5 @@
 package n2exercici1;
 
-import n2exercici1.fabriques.ContacteAlemania;
-
 import java.util.ArrayList;
 
 public class Agenda {

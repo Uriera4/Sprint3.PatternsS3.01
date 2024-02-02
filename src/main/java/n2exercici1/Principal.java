@@ -7,7 +7,7 @@ import n2exercici1.interfaces.FabricaAbstracta;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class App {
+public class Principal {
 
     public static void accionaPrograma(){
 
